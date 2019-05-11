@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/main" android:title="Main" android:icon="@drawable/ic_iconfinder_tablet_rad_2834764"/>
+    <item android:id="@+id/projetos" android:title="Projetos" android:icon="@drawable/ic_iconfinder_cloud_storage_rad_2834779"/>
+    <item android:id="@+id/profile" android:title="Perfil" android:icon="@drawable/ic_iconfinder_unlocked_rad_2834763"/>
+    <item android:id="@+id/contato" android:title="Contato" android:icon="@drawable/ic_iconfinder_connected_mobile_rad_2834772"/>
+
+
+</menu>
